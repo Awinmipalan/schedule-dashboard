@@ -101,4 +101,5 @@ This dashboard is intended for **internal, demo, and educational use** only.
 ---
 
 ## 📁 Repo Structure
-
+# web link to by dashboard projects
+https://www.novypro.com/manage_projects/awindanjuma?Show=Published%20Projects
